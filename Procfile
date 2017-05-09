@@ -1,4 +1,4 @@
 
 
-heroku config:set DISABLE_COLLECTSTATIC=1
+python manage.py collectstatic
 python manage.py test
