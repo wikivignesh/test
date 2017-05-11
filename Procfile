@@ -1,1 +1,1 @@
-heroku run python test/manage.py runserver
+heroku run python manage.py runserver
