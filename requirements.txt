@@ -1,4 +1,4 @@
 Django==1.8
 django-jenkins==0.110.0
 whitenoise==3.3.0
-
+gunicorn
