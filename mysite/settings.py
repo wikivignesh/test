@@ -129,5 +129,5 @@ STATICFILES_DIRS = (
 STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
 
 
-export DJANGO_SETTINGS_MODULE = "mysite.settings"
-echo $DJANGO_SETTINGS_MODULE
+#export DJANGO_SETTINGS_MODULE = "mysite.settings"
+#echo $DJANGO_SETTINGS_MODULE
