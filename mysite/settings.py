@@ -127,3 +127,7 @@ STATICFILES_DIRS = (
     os.path.join(PROJECT_ROOT, 'static'),
 )
 STATICFILES_STORAGE = 'whitenoise.django.GzipManifestStaticFilesStorage'
+
+
+export DJANGO_SETTINGS_MODULE="mysite.settings"
+echo $DJANGO_SETTINGS_MODULE
