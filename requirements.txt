@@ -1,7 +1,5 @@
 Django==1.8
 dj-database-url==0.4.2
 django-jenkins==0.110.0
-djangorestframework==3.3.2
 gunicorn==19.7.1
 psycopg2==2.4.5
-whitenoise==3.3.0
