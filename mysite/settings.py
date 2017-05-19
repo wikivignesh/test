@@ -39,6 +39,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django_jenkins',
     'mysite',
+    'mysite2',
 )
 
 MIDDLEWARE_CLASSES = (
